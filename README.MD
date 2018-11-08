@@ -10,6 +10,7 @@
 * 💻 [Web Site](https://lumiloves.github.io/javascript-food/)
 * 💻 [Unit Test Report](https://lumiloves.github.io/javascript-food/test/)
 * 📝 Review - [Front-end 프로젝트에서의 Test Code 작성 경험기](https://lumiloves.github.io/2018/08/21/my-first-frontend-test-code-experience)
+* 🗣 Presentation - [Front-end 프로젝트에서의 Test Code 작성 경험기](https://www.slideshare.net/ahreumkim393/feconf-2018-frontend-test-code)
 
 <br>
 
@@ -29,7 +30,7 @@
 * 범용성(재사용)을 고려한 UI Component 객체 구조로 설계
 * 클라이언트 측 Template Rendering를 정규식을 활용하여 구현 (단순치환, if 기능, each 기능)
 * 성능을 고려한 기능 (dynamic loading, throttle, debounce)
-* 테스트 코드 작성 경험 ([review](https://lumiloves.github.io/2018/08/21/my-first-frontend-test-code-experience))
+* 테스트 코드 작성 경험 ( [review](https://lumiloves.github.io/2018/08/21/my-first-frontend-test-code-experience), [presentation](https://www.slideshare.net/ahreumkim393/feconf-2018-frontend-test-code) )
 
 <br>
 
